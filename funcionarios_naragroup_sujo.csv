@@ -1,0 +1,101 @@
+id;nome;departamento;cargo;salario;data_admissao;email;ativo
+32;Roberto Cardoso;FINANCEIRO;Assistente;11605.79;04/09/2022;roberto.cardoso@naragroup.com;S
+93;Amanda Silva;Financeiro;Coordenador;10032.2;09/08/2019;amanda.silva@naragroup.com;S
+52;  Jefferson Lima ;T.I.;Estagiário;7387.84;2021-06-13;jefferson.lima@naragroup.com;1
+81;Aissa Pereira;Tecnologia;Analista;10376.08;Nov-2018;aissa.pereira@naragroup.com;True
+7;Patrícia Rocha;FINANCEIRO;Assistente;"""14859,19""";2023-12-29;patrícia.rocha@naragroup.com;SIM
+8;  Diego Fernandes ;MARKETING;Diretor;7746.46;30/07/2018;diego.fernandes@naragroup.com;Nao
+6;Bruno Alves;Tecnologia;Assistente;6935.41;Jan-2021;bruno.alves@naragroup.com;Sim
+69;Lívia Costa;Operações;Coordenador;9753.7;2019-12-12;lívia.costa@naragroup.com;SIM
+25;Priscila Teixeira;vendas;Coordenador;13401.31;Aug-2022;priscila.teixeira@naragroup.com;True
+47;Vera Andrade;FINANCEIRO;Assistente;5219.13;2022-02-04;vera.andrade@naragroup.com;S
+100;Fábio Sampaio;vendas;Analista;3650.49;2022-05-14;fábio.sampaio@naragroup.com;1
+94;Guilherme Santos;operacoes;Coordenador;7220.62;Mar-2022;;1
+90;Jefferson Pinto;Fin.;Assistente;14947.59;Dec-2018;jefferson.pinto@naragroup.com;Sim
+49;Raquel Esteves;Operações;Estagiário;3196.95;2019-07-15;raquel.esteves@naragroup.com;S
+96;Carla Peixoto;ti;Coordenador;;Nov-2023;carla.peixoto@naragroup.com;Sim
+53;Carla Peixoto;ti;Coordenador;;Nov-2023;carla.peixoto@naragroup.com;Sim
+4;Rafael Oliveira;Recursos Humanos;Estagiário;4369.98;Mar-2023;rafael.oliveira@naragroup.com;Nao
+70;César Gomes;OPERAÇÕES;Gerente;12852.17;2020-11-16;;1
+71;Paloma Dias;marketing ;Diretor;2542.86;Sep-2020;paloma.dias@naragroup.com;Nao
+85;Viviane Gomes;R.H.;Diretor;9935.7;20/05/2020;viviane.gomes@naragroup.com;1
+58;Hélio Braga;marketing;Assistente;3168.67;2022-10-18;;Sim
+46;Alexandre Lacerda;Financeiro;Estagiário;11962.92;2020-07-29;;Sim
+98;Beatriz Almeida;operações ;Analista;"""13331,89""";2019-10-24;beatriz.almeida@naragroup.com;True
+59;Adriana Leal;rh;Diretor;10727.98;Oct-2021;adriana.leal@naragroup.com;sim
+43;Elaine Figueiredo;marketing;Estagiário;"""1662,08""";30/07/2021;elaine.figueiredo@naragroup.com;sim
+60;Marcos Vieira;Tecnologia;Assistente;9738.68;2024-02-23;marcos.vieira@naragroup.com;1
+26;Henrique Dias;MARKETING;Assistente;6615.94;Oct-2024;henrique.dias@naragroup.com;1
+80;Fernando Ribeiro;VENDAS;Gerente;6138.06;2020-11-14;fernando.ribeiro@naragroup.com;1
+11;Amanda Silva;Financeiro;Coordenador;10032.2;09/08/2019;amanda.silva@naragroup.com;S
+1;Ana Lima;Fin.;Gerente;9592.43;2020-08-01;ana.lima@naragroup.com;Nao
+45;  Cristiane Tavares ;RH ;Gerente;8996.09;2021-04-11;cristiane.tavares@naragroup.com;True
+44;Matheus Borges;VENDAS;Diretor;13919.92;2022-06-16;matheus.borges@naragroup.com;Sim
+95;Mariana Correia;FINANCEIRO;Assistente;;2022-01-21;mariana.correia@naragroup.com;1
+38;Renato Cavalcante;Oper.;Coordenador;9085.42;03/01/2020;renato.cavalcante@naragroup.com;sim
+74;Luís Monteiro;Tecnologia;Analista;5755.08;Jul-2018;luís.monteiro@naragroup.com;sim
+34;Leandro Reis;Operações;Analista;12386.09;Nov-2018;;Sim
+84;Samuel Oliveira;Vendas;Analista;4466.03;Aug-2021;samuel.oliveira@naragroup.com;Sim
+15;Larissa Nunes;Mkt;Analista;2802.52;12/08/2019;larissa.nunes@naragroup.com;Nao
+48;Danilo Campos;vendas ;Gerente;10974.56;2024-01-01;danilo.campos@naragroup.com;1
+63;Lorena Pinto;operacoes;Gerente;12887.98;20/01/2019;lorena.pinto@naragroup.com;Sim
+62;Pedro Nunes;VENDAS;Diretor;6984.78;2018-08-12;pedro.nunes@naragroup.com;Nao
+22;Anderson Cruz;RH;Estagiário;11229.79;Jun-2020;;1
+77;Andréia Campos;RH ;Assistente;;2018-08-17;andréia.campos@naragroup.com;sim
+76;Fábio Sampaio;vendas;Analista;3650.49;2022-05-14;fábio.sampaio@naragroup.com;1
+65;Tatiana Ferreira;T.I.;Gerente;;2022-10-30;tatiana.ferreira@naragroup.com;Sim
+30;Paulo Nascimento;Recursos Humanos;Analista;3016.48;2023-12-19;paulo.nascimento@naragroup.com;Sim
+12;Thiago Santos;Tecnologia;Assistente;3333.52;2022-07-19;thiago.santos@naragroup.com;True
+41;Claudia Ramos;tecnologia da informação;Gerente;;2023-11-13;claudia.ramos@naragroup.com;Sim
+64;Murilo Cardoso;Marketing;Gerente;3278.7;Jan-2020;murilo.cardoso@naragroup.com;sim
+79;Natasha Moura;Recursos Humanos;Gerente;8767.25;2018-10-31;natasha.moura@naragroup.com;Sim
+17;Mariana Correia;FINANCEIRO;Assistente;;2022-01-21;mariana.correia@naragroup.com;1
+29;Flávia Azevedo;vendas;Estagiário;;05/08/2020;flávia.azevedo@naragroup.com;True
+20;Gustavo Pinto;RH ;Analista;3946.54;03/06/2018;gustavo.pinto@naragroup.com;1
+66;Rodrigo Farias;Operações;Diretor;6843.64;2023-01-02;rodrigo.farias@naragroup.com;Nao
+78;Bruno Esteves;VENDAS;Diretor;2557.32;2022-04-04;bruno.esteves@naragroup.com;sim
+89;Keila Mendes;T.I.;Coordenador;;Oct-2018;keila.mendes@naragroup.com;sim
+55;Beatriz Almeida;operações ;Analista;"""13331,89""";2019-10-24;beatriz.almeida@naragroup.com;True
+92;Déborah Cunha;RH ;Assistente;8191.9;Feb-2019;déborah.cunha@naragroup.com;Sim
+31;Simone Castro;marketing;Estagiário;"""14707,05""";Nov-2019;simone.castro@naragroup.com;True
+73;Déborah Cunha;RH ;Assistente;8191.9;Feb-2019;déborah.cunha@naragroup.com;Sim
+19;Isabela Mendes;Fin.;Assistente;"""12601,96""";24/06/2022;isabela.mendes@naragroup.com;SIM
+57;Denise Mota;T.I.;Gerente;3292.07;16/02/2018;denise.mota@naragroup.com;True
+67;Jéssica Lopes;MARKETING;Assistente;"""7367,99""";May-2023;jéssica.lopes@naragroup.com;Sim
+51;Mônica Barros;OPERAÇÕES;Diretor;9711.58;2024-11-08;mônica.barros@naragroup.com;sim
+61;  Cíntia Ramos ;Operações;Assistente;-2802.48;Sep-2022;cíntia.ramos@naragroup.com;1
+72;  Renan Barros ;Oper.;Coordenador;8579.03;2018-10-24;renan.barros@naragroup.com;sim
+9;Camila Pereira;VENDAS;Estagiário;12189.83;2024-09-04;camila.pereira@naragroup.com;S
+5;Juliana Martins;marketing;Analista;;Dec-2023;juliana.martins@naragroup.com;True
+97;Priscila Teixeira;vendas;Coordenador;13401.31;Aug-2022;priscila.teixeira@naragroup.com;True
+36;Fábio Araújo;marketing ;Assistente;4119.05;15/02/2019;fábio.araújo@naragroup.com;SIM
+21;  Letícia Moreira ;Fin.;Gerente;5704.15;Jul-2020;letícia.moreira@naragroup.com;1
+33;  Aline Ferreira ;marketing ;Estagiário;12712.17;17/10/2024;aline.ferreira@naragroup.com;Nao
+39;  Débora Vieira ;vendas;Coordenador;9230.96;2022-04-17;débora.vieira@naragroup.com;True
+68;Wellington Sousa;RH ;Gerente;4640.38;04/06/2024;wellington.sousa@naragroup.com;Nao
+35;Sabrina Melo;Tecnologia;Assistente;6484.56;Apr-2024;sabrina.melo@naragroup.com;1
+10;Lucas Ribeiro;OPERAÇÕES;Analista;2982.2;03/12/2019;;1
+13;Bianca Carvalho;TI ;Gerente;-2527.59;13/02/2024;bianca.carvalho@naragroup.com;True
+50;Tiago Moura;TI;Diretor;999999;14/11/2019;tiago.moura@naragroup.com;True
+83;  Monique Rocha ;R.H.;Estagiário;6155.78;23/04/2019;monique.rocha@naragroup.com;S
+87;Raíssa Correia;Financeiro;Estagiário;1738.96;Jul-2023;raíssa.correia@naragroup.com;SIM
+40;Sérgio Machado;financeiro ;Estagiário;13505.09;May-2023;sérgio.machado@naragroup.com;Nao
+91;Patrícia Rocha;FINANCEIRO;Assistente;"""14859,19""";2023-12-29;patrícia.rocha@naragroup.com;SIM
+54;Nelson Freire;Vend.;Estagiário;12209.29;Aug-2020;nelson.freire@naragroup.com;SIM
+23;Natália Barbosa;OPERAÇÕES;Coordenador;5501.09;25/11/2018;natália.barbosa@naragroup.com;SIM
+88;Alexandre Freitas;financeiro;Diretor;14951.03;Oct-2024;alexandre.freitas@naragroup.com;S
+18;Eduardo Freitas;tecnologia da informação;Assistente;1650.5;15/07/2018;eduardo.freitas@naragroup.com;Nao
+24;Vinícius Lopes;RH;Diretor;5455.9;06/08/2021;vinícius.lopes@naragroup.com;S
+37;Vanessa Sousa;vendas;Coordenador;-2700.44;20/06/2019;vanessa.sousa@naragroup.com;True
+56;Igor Santana;financeiro;Assistente;5730.85;Jul-2018;igor.santana@naragroup.com;SIM
+2;Carlos Souza;T.I.;Estagiário;6671.41;2024-01-16;carlos.souza@naragroup.com;S
+14;  Felipe Gomes ;Recursos Humanos;Analista;3267.51;Sep-2024;felipe.gomes@naragroup.com;Nao
+82;Guilherme Santos;operacoes;Coordenador;7220.62;Mar-2022;;1
+86;Denilson Alves;financeiro ;Analista;9625.97;2020-12-08;denilson.alves@naragroup.com;True
+27;  Tatiane Cunha ;Oper.;Gerente;6627.63;20/03/2020;tatiane.cunha@naragroup.com;Sim
+28;Marcelo Monteiro;operacoes;Estagiário;5487.92;Mar-2020;marcelo.monteiro@naragroup.com;1
+42;Willian Duarte;Recursos Humanos;Analista;6032.64;Jan-2018;willian.duarte@naragroup.com;1
+16;Rodrigo Batista;Vend.;Gerente;13975.81;16/04/2024;rodrigo.batista@naragroup.com;True
+99;Viviane Gomes;R.H.;Diretor;9935.7;20/05/2020;viviane.gomes@naragroup.com;1
+3;  Fernanda Costa ;FINANCEIRO;Coordenador;11250.05;2024-08-07;fernanda.costa@naragroup.com;True
+75;Graciela Silva;vendas;Estagiário;4941.37;Jun-2024;graciela.silva@naragroup.com;sim
